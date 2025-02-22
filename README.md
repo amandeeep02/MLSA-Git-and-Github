@@ -1,4 +1,4 @@
-# MLSA Git and Github
+# Introduction to Git and Github
 
 Here are some useful links for you:
 
